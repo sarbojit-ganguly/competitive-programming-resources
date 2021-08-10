@@ -1,0 +1,64 @@
+Competitive programming repositories:
+
+From Benjamin Qi: (benq)
+
+https://joincpi.org/
+
+https://cses.fi/file/f039dfd6ad6656f9046b68e4e32703fe211cd4df174270e0c2410a0c649a8e8e/
+
+https://www.ceoi2008.de/files/short-spoiler.pdf
+
+https://github.com/cpinitiative/ide
+
+
+(check this out)
+https://usaco.guide/general/using-this-guide?lang=cpp 
+============================================================================================
+
+CodeForces: problems based on topics:
+https://codeforces.com/blog/entry/55274
+
+
+
+Scanline algorithm:
+https://www.geeksforgeeks.org/computer-graphics-scan-line-algorithm-in-3d-hidden-surface-removal/
+
+==============================================================================================================
+
+Useful link for test-case generation
+
+1. Matrix generation link
+https://onlinemathtools.com/generate-random-matrix
+
+2. Random number generation link
+https://numbergenerator.org/100randomnumbersbetween1and100
+
+
+STL study link 
+
+https://www.studytonight.com/cpp/stl/stl-introduction
+
+
+Following links are for graph search algorithms (basic ones)
+1. https://www.section.io/engineering-education/breadth-first-search/
+2. https://medium.com/swlh/solving-mazes-with-depth-first-search-e315771317ae
+3. https://hurna.io/academy/algorithms/maze_pathfinder/dfs.html (may not be that useful)
+
+4. Shortest path in maze using backtracking
+https://www.techiedelight.com/find-shortest-path-in-maze/
+
+5. Shortest path in maze using Lee algorithm (uses BFS)
+https://www.techiedelight.com/lee-algorithm-shortest-path-in-a-maze/
+
+6. Another link for Lee Algorithm (geeks for geeks website)
+https://www.geeksforgeeks.org/shortest-path-in-a-binary-maze/
+
+
+Difference between backtracking and DFS (Depth First Search)
+https://stackoverflow.com/questions/1294720/whats-the-difference-between-backtracking-and-depth-first-search
+
+Leet Code link for the same (diff. between Backtracking and DFS)
+https://leetcode.com/discuss/general-discussion/136503/what-is-difference-between-backtracking-and-depth-first-search
+
+One more link on the same topic
+https://junxiaoguo.com/algorithm/backtrack/dfs/recursion/2019/07/31/blog-post-6.html
